@@ -3,6 +3,7 @@
 ### This repository include assignments of:
 
 - push-to-https
+- push-to-http
 
 
 Each folder contains main.cpp and/or header files response to its program.
